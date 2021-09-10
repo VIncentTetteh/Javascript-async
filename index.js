@@ -38,7 +38,7 @@
 
 
 /*
-New way of fetching data with a promise;
+New way of fetching data with a promise :(;
 A promise is a method that start execution and ends at a
 certain time and returns either a resolve of reject 
 
